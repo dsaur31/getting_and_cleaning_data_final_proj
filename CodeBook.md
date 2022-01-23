@@ -26,7 +26,7 @@ Data was manipulated and cleaned in the following way:
 	Rows ordered by "subject" and then "activity"
 	
 Variable names, descriptions and summary statistics
-================================================================
+===============================================================
 variable_name	description	n	min	max	mean
 subject	individual identifier	180	1	30	15.5
 activity	physical activity recorded	180	1	6	3.5
