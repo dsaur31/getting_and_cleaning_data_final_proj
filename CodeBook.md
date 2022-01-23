@@ -1,10 +1,10 @@
-================================================================
 Description of Raw Data
 ================================================================
+
 The original data was obtained from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Data was collected from the accelerometers from the Samsung Galaxy S smartphone
 A full description can reviewed here: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
-================================================================
+
 Noted Transformations
 ================================================================
 Data was manipulated and cleaned in the following way:
@@ -24,7 +24,7 @@ Data was manipulated and cleaned in the following way:
 7. A tideier dataset (final_data.txt) was produced, chaning the order of columns, and the order of rows
 	"subject" and "activity" placed first in column order, then the data
 	Rows ordered by "subject" and then "activity"
-================================================================
+	
 Variable names, descriptions and summary statistics
 ================================================================
 variable_name	description	n	min	max	mean
