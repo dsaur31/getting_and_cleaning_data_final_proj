@@ -27,5 +27,6 @@ Data was manipulated and cleaned in the following way:
 	
 Variable names, descriptions and summary statistics
 ===============================================================
-![image](https://user-images.githubusercontent.com/96789508/150662895-7251274d-44a4-4e27-a832-12edc2a52db7.png)
+![image](https://user-images.githubusercontent.com/96789508/150662924-40862848-8ed6-46ea-9cbf-491b0c3862ac.png)
+
 
